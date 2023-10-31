@@ -1,5 +1,4 @@
-# ignore all .txt files
-*.txt
+
 
 # ignore .DS_Store
 *.DS_Store
